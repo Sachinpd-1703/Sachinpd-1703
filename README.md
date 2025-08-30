@@ -71,11 +71,3 @@ I believe the best software comes from mixing logic with creativity — whether 
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sachinpd1703)
-
----
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Sachinpd-1703&icon=2&color=6" alt="Profile Views" />
-  
-  *"Code is like humor. When you have to explain it, it's bad."* - Cory House
-</div>
