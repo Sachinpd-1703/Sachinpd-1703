@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: ⬇️ Checkout main branch
+      - name: ⬇️ Checkout repository
         uses: actions/checkout@v3
 
       - name: 🐍 Generate Snake SVGs (Dark & Light)
@@ -30,9 +30,21 @@ jobs:
       - name: 🚀 Deploy SVGs to output branch
         run: |
           git fetch origin
-          git switch output || git switch -c output
+          # Create output branch if it doesn't exist
+          if git show-ref --verify --quiet refs/heads/output; then
+            git switch output
+          else
+            git switch -c output
+          fi
 
+          # Copy the generated SVGs
           cp dist/github-contribution-grid-snake*.svg .
+
+          # Commit only if there are changes
           git add *.svg
-          git commit -m "🐍 Auto-update snake contributions [skip ci]" || echo "No changes"
-          git push origin output
+          if ! git diff --cached --quiet; then
+            git commit -m "🐍 Auto-update snake contributions [skip ci]"
+            git push origin output
+          else
+            echo "No changes to commit"
+          fi
