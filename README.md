@@ -15,4 +15,12 @@ I'm currently working on : <br>I’m building a secure authenticator system, whi
 ---
 [![](https://visitcount.itsvg.in/api?id=Sachinpd1703&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<br><!-- 🐍 GitHub Contribution Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubham4734singh/shubham4734singh/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shubham4734singh/shubham4734singh/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/shubham4734singh/shubham4734singh/output/github-contribution-grid-snake.svg" style="max-width: 100%;" />
+  </picture>
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
