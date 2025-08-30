@@ -17,15 +17,15 @@ jobs:
       - name: 🐍 Generate Snake SVGs (Dark & Light)
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: shubham4734singh
+          github_user_name: Sachinpd-1703
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg
 
       - name: 🔧 Setup Git
         run: |
-          git config --global user.name "Shubham Singh"
-          git config --global user.email "shubhamsingh9974525390@gmail.com"
+          git config --global user.name "Sachin Prasad"
+          git config --global user.email "sachinroy2003@gmail.com"
 
       - name: 🚀 Deploy SVGs to output branch
         run: |
