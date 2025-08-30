@@ -50,11 +50,11 @@ I believe the best software comes from mixing logic with creativity — whether 
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sachinpd1703&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sachinpd-1703&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Sachinpd1703&theme=radical&hide_border=true)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Sachinpd-1703&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sachinpd1703&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sachinpd-1703&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
@@ -62,9 +62,9 @@ I believe the best software comes from mixing logic with creativity — whether 
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubham4734singh/shubham4734singh/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shubham4734singh/shubham4734singh/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/shubham4734singh/shubham4734singh/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sachinpd-1703/Sachinpd-1703/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sachinpd-1703/Sachinpd-1703/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Sachinpd-1703/Sachinpd-1703/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
@@ -75,7 +75,7 @@ I believe the best software comes from mixing logic with creativity — whether 
 ---
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Sachinpd1703&icon=2&color=6" alt="Profile Views" />
+  <img src="https://visitcount.itsvg.in/api?id=Sachinpd-1703&icon=2&color=6" alt="Profile Views" />
   
   *"Code is like humor. When you have to explain it, it's bad."* - Cory House
 </div>
