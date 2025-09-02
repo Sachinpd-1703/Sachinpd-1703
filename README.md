@@ -15,7 +15,7 @@
   <tr>
     <td valign="top" width="65%">
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+### 👋 About Me
 
 I'm passionate about building secure systems, exploring AI frontiers, and diving into creative game development. I enjoy bridging the gap between robust backend systems and immersive digital experiences.
 
